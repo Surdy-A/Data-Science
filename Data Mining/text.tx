@@ -1,0 +1,14 @@
+Clustering 
+• Just finding similarities 
+• Data is unlabeled 
+• Answers are subjective 
+• Is judged by utility 
+• Unsupervised learning 
+
+
+Classification 
+• Places in existing categories 
+• Data is labeled 
+• Answers are objective 
+• Is judged by accuracy 
+• Supervised learning
