@@ -1,0 +1,22 @@
+String Variables: Non-numeric character in a colmun of data e.g people name
+Numeric Variables: numeric character in a column of data x
+Continous Variables: 
+Tiles: labels graphs and provide contextual information about what is displayed
+An axis: defines the reference line used to measure coordinates on graphs
+Axis can be numeric or categorical.
+Data Markers: are the actual values of data visualized. e.g sqare, black dot e.t.c
+                change the visual complexity of a plot
+
+Colors: can help identify graph element
+Cartesian coordinates: are the x and y axes which create a square grid
+Univariate analysis: is all about examining the properties of a single Variable
+categorical data: pie charts, bar charts, or dot plots.
+Continous data: use histograms, density plots, box plots
+Multivariate analysis: to examine how three or more Variables are related to each 
+Box Plot: when alot information needs to be presented in a simple way.
+Box plot graphically present Five-Number summary:
+1. The minimum
+2. First Quartile
+3. Second Quartile, also called median
+4. Third Quartile
+5. The maximum
